@@ -16,15 +16,9 @@ This tutorial assumes some knowledge of Python. To get ready for this session yo
 
 [Introduction to Python](https://brockdsl.github.io/Intro_to_Python_Workshop/) - An introduction to the langauage that starts from scratch
 
-
-
-[https://brockdsl.github.io/Python_2.0_Workshop/] - A more advanced look into Python that focuses on how to analyze data using the language
-
-
+[Python 2.0](https://brockdsl.github.io/Python_2.0_Workshop/) - A more advanced look into Python that focuses on how to analyze data using the language
 
 **OPTIONAL**
-
-
 
 [Case Study: Sci Hub Usage](https://brockdsl.github.io/SciHub_Workshop/) - A case study workshop that uses Python tools to analyze usage patterns of the (in)famous platform [SciHub](https://en.wikipedia.org/wiki/Sci-Hub)
 
@@ -40,5 +34,5 @@ A handout with a description of what is covered in the session can be found  [he
 
 We will be using the Google Collab platform for today's workshop. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/) Intro to Machine Learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Machine_Learning_with_Python/blob/master/Machine%20Learning%20Basics.ipynb) Intro to Machine Learning
 
