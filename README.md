@@ -5,7 +5,7 @@
 
 # Introduction to Machine Learning with Python
 
-We'll do all of the work for today's tutorial using Juypter Notebooks and Google Collab.
+We'll do all of the work for today's tutorial using Juypter Notebooks and Google Colab.
 You'll need a Google Account to launch the interactive interface.
 
 
@@ -23,6 +23,9 @@ This tutorial assumes some knowledge of Python. To get ready for this session yo
 
 
 **OPTIONAL**
+
+
+
 [Case Study: Sci Hub Usage](https://brockdsl.github.io/SciHub_Workshop/) - A case study workshop that uses Python tools to analyze usage patterns of the (in)famous platform [SciHub](https://en.wikipedia.org/wiki/Sci-Hub)
 
 
@@ -37,5 +40,5 @@ A handout with a description of what is covered in the session can be found  [he
 
 We will be using the Google Collab platform for today's workshop. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/) Sci Kit and decision trees
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/) Intro to Machine Learning
 
