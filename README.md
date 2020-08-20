@@ -26,7 +26,7 @@ This tutorial assumes some knowledge of Python. To get ready for this session yo
 
 ## Handout
 
-A handout with a description of what is covered in the session can be found  [here]()
+A handout with a description of what is covered in the session can be found  [here](https://brockdsl.github.io/Machine_Learning_with_Python/pythonmachine.pdf)
 
 
 
