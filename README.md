@@ -30,7 +30,7 @@ A handout with a description of what is covered in the session can be found  [he
 
 
 
-## Getting Started
+## Getting Started 
 
 We will be using the Google Collab platform for today's workshop. 
 
