@@ -1,6 +1,6 @@
-![DSL Logo](dsl_logo.png)
+![Workshop Splash](Machine-Learning-Python.jpg)
 
-[@brock_dsl](https://twitter.com/brock_dsl)
+
 
 
 # Introduction to Machine Learning with Python
