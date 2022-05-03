@@ -1,9 +1,10 @@
 ![Workshop Splash](Machine-Learning-Python.jpg)
 
 
-
-
 # Introduction to Machine Learning with Python
+
+You hear a lot about algorithms and their effect on daily life in the news these days. This 2-hr workshop will introduce participants to the basics of Machine Learning using the Pandas and SciKit Learn Libraries. Two components that provide the basic starting points for understanding those algorithms. By the end of the session learners will understand how to apply machine learning methodologies on a dataset to predict results and to look at the underlying assumptions that power these tools. 
+The class will be held using the Google Colab environment, and participants will need a (free) Google Account to participate. Some basic knowledge of Python would help. 
 
 We'll do all of the work for today's tutorial using Juypter Notebooks and Google Colab.
 You'll need a Google Account to launch the interactive interface.
