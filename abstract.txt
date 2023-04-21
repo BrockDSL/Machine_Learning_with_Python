@@ -1,5 +1,5 @@
 You hear a lot about algorithms and their effect on daily life in the news these days. This 2-hr workshop will introduce participants to the basics of Machine Learning using the Pandas and SciKit Learn Libraries. Two components that provide the basic starting points for understanding those algorithms. By the end of the session learners will understand how to apply machine learning methodologies on a dataset to predict results and to look at the underlying assumptions that power these tools.
 
-The class will be held using the Google Colab environment, and participants will need a (free) Google Account to participate. Some basic knowledge of Python would help. To prepare please work through the self-directed <a href="https://brockdsl.github.io/Intro_to_Python_Workshop/">Introduction to Python</a> tutorial.
+The class will be held using the Google Colab environment, and participants will need a (free) Google Account to participate. Some basic knowledge of Python would help. To prepare please work through the self-directed Introduction to Python tutorial.  https://brockdsl.github.io/Intro_to_Python_Workshop/
 
 This workshop will be recorded and a copy of the recording will be provided to attendees. The recording of this workshop may also be shared publicly
