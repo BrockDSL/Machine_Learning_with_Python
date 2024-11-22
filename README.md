@@ -35,5 +35,5 @@ A handout with a description of what is covered in the session can be found  [he
 
 We will be using the Google Collab platform for today's workshop. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Machine_Learning_with_Python/blob/master/Machine_Learning%_Basics.ipynb) Intro to Machine Learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Machine_Learning_with_Python/blob/master/Machine_Learning_Basics.ipynb) Intro to Machine Learning
 
